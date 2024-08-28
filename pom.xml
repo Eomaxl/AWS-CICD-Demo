@@ -50,7 +50,6 @@
 
 
     <build>
-        <plugins>
             <plugins>
                 <plugin>
                     <groupId>org.springframework.boot</groupId>
@@ -58,7 +57,6 @@
                 </plugin>
             </plugins>
             <finalName>course-service</finalName>
-        </plugins>
     </build>
     <repositories>
         <repository>
